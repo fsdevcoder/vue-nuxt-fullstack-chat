@@ -17,7 +17,7 @@
     "node": "9.x"
   },
   "dependencies": {
-    "@nuxtjs/pwa": "^2.6.0",
+    "@nuxtjs/pwa": "^3.3.5",
     "@nuxtjs/vuetify": "0.5.5",
     "cross-env": "^5.2.0",
     "express": "^4.16.4",
